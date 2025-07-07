@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Cheng LIU/ Site Title"
+title                    : "Cheng LIU/ Wunderkammer"
 title_separator          : "-"
 name                     : &name "Cheng LIU"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_lc.png"
+  avatar           : "profile_lc.jpg"
   name             : "Cheng (Christopher) LIU"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant"

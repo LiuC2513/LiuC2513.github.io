@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Cheng LIU",
+    "email": "liuc2513@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://liuc2513.github.io",
+    "summary": "Currently employed at Nanyang Technological University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Singapore",
+      "countryCode": "SIN",
       "region": ""
     },
     "profiles": [
@@ -25,74 +25,62 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "liuc2513",
+        "url": "https://github.com/liuc2513"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Xi'an Jiaotong University, China",
+      "area": "M.S in Economics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "endDate": "2025",
+      "gpa": 3.2,
+      "courses": ["Microeconomic Theory I&II (PhD Level)", "Macroeconomic Theory I&II (PhD Level)","Econometrics I&II
+(PhD Level)", "Financial Data Mining and Applications","Financial Computation with Simulation Method","Machine
+learning in Finance"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "National Chengchi University, Taiwan, China",
+      "area": "B.S. in Finance",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2019.02",
+      "endDate": "2019.06",
       "gpa": null,
-      "courses": []
-    },
+      "courses": ["Macroeconomics (100)", "Public Finance (100)", "Industrial Economics-Game Theory (96)","Statistics (93)"]
+    } 
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Xi'an Jiaotong University,China",
+      "area": "B.S. in Finance",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "endDate": "2021",
+      "gpa": 3.91,
+      "courses": ["Linear Algebra (100)", "Financial Engineering (97)", "Financial Risk Management (95)", "International Finance (95)", "Central Banking (94)", "Corporate Finance (90)."]
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": ["Stata","Python","SAS"],
+  "languages": ["Chinese","English"],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Economic policy uncertainty and corporate risk-taking: Loss aversion or opportunity expectations",
+      "publisher": "Pacific-Basin Finance Journal",
+      "releaseDate": "2021-10",
+      "website": "https://doi.org/10.1016/j.pacfin.2021.101640",
+      "summary": "Co-authored with Cheng Zhang (Northwestern Polytechnical University) and Chunhong Yang (XJTU)."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
+      "name": "Managerial Myopia and Corporate Financialization: Evidence from China",
+      "publisher": "Journal of International Financial Management & Accounting",
+      "releaseDate": "2024-09",
       "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "summary": "Co-authored with Cheng Zhang (Northwestern Polytechnical University), Chunhong Yang (Frankfurt School of Finance & Management) and Yaoying Ma (City University of Hong Kong)."
     },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
   ],
   "presentations": [
     {

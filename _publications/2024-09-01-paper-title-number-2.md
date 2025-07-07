@@ -2,7 +2,7 @@
 title: "Managerial Myopia and Corporate Financialization: Evidence from China"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2024-09-01-paper-title-number-2
 excerpt: 'Co-authored with Cheng Zhang (Northwestern Polytechnical University), Chunhong Yang (Frankfurt School of Finance & Management) and Yaoying Ma (City University of Hong Kong).'
 date: 2024-09-01
 venue: 'Journal of International Financial Management & Accounting'

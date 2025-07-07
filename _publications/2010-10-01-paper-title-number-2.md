@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Co-authored with Cheng Zhang (Northwestern Polytechnical University), Chunhong Yang (Frankfurt School of Finance & Management) and Yaoying Ma (City University of Hong Kong).'
-date: 2024-09
+date: 2024-09-01
 venue: 'Journal of International Financial Management & Accounting'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.1111/jifm.12222'

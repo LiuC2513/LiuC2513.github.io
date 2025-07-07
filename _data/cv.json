@@ -13,21 +13,7 @@
       "region": ""
     },
     "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "liuc2513",
-        "url": "https://github.com/liuc2513"
-      }
+
     ]
   },
   "work": [],
@@ -39,9 +25,7 @@
       "startDate": "",
       "endDate": "2025",
       "gpa": 3.2,
-      "courses": ["Microeconomic Theory I&II (PhD Level)", "Macroeconomic Theory I&II (PhD Level)","Econometrics I&II
-(PhD Level)", "Financial Data Mining and Applications","Financial Computation with Simulation Method","Machine
-learning in Finance"]
+      "courses": []
     },
     {
       "institution": "National Chengchi University, Taiwan, China",
@@ -50,8 +34,8 @@ learning in Finance"]
       "startDate": "2019.02",
       "endDate": "2019.06",
       "gpa": null,
-      "courses": ["Macroeconomics (100)", "Public Finance (100)", "Industrial Economics-Game Theory (96)","Statistics (93)"]
-    } 
+      "courses": []
+    },
     {
       "institution": "Xi'an Jiaotong University,China",
       "area": "B.S. in Finance",
@@ -59,7 +43,7 @@ learning in Finance"]
       "startDate": "",
       "endDate": "2021",
       "gpa": 3.91,
-      "courses": ["Linear Algebra (100)", "Financial Engineering (97)", "Financial Risk Management (95)", "International Finance (95)", "Central Banking (94)", "Corporate Finance (90)."]
+      "courses": []
     }
   ],
   "skills": ["Stata","Python","SAS"],
@@ -80,7 +64,7 @@ learning in Finance"]
       "releaseDate": "2024-09",
       "website": "http://academicpages.github.io/files/paper2.pdf",
       "summary": "Co-authored with Cheng Zhang (Northwestern Polytechnical University), Chunhong Yang (Frankfurt School of Finance & Management) and Yaoying Ma (City University of Hong Kong)."
-    },
+    }
   ],
   "presentations": [
     {

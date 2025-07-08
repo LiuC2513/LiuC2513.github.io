@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Spring 2024 - Now: Research Assistant
+* Dec 2024 - Now: Research Assistant
   * Nanyang Technological University
   * Projects included: Informal Institution and Executive Characteristics
   * Duties includes: Literature review; Replication; Data analysis
@@ -30,12 +30,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* STATA
+* Python
+  * Machine Learning
+  * Deep Learning
+  * Generative AI
+* SAS
+* R
+* Latex
 
 Publications
 ======
